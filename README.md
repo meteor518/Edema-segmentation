@@ -17,3 +17,5 @@ A few result images:
 ![image](https://github.com/meteor518/Edema-segmentation/blob/master/%E5%88%86%E5%89%B2%E6%B0%B4%E8%82%BF.png)
 
 3. The result:
+
+![image](https://github.com/meteor518/Edema-segmentation/blob/master/%E6%9C%80%E7%BB%88%E6%98%BE%E7%A4%BA%E5%9B%BE.png)
