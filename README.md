@@ -1,6 +1,6 @@
 # Edeme-segmentation
 
-There are 19 OCT images for each eyeball. First, we segment the edemas of each OCT image.
+There are 19 OCT images for each eyeball. First, we segment the edemas of each OCT image. Sencond, we combined all images to display the edemas.
 
 The project mainly achieved the following two parts: image preprocessing;edema segmentation and display.
 
@@ -16,3 +16,4 @@ A few result images:
 
 ![image](https://github.com/meteor518/Edema-segmentation/blob/master/%E5%88%86%E5%89%B2%E6%B0%B4%E8%82%BF.png)
 
+3. The result:
